@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f41db1614b7d4a558f2ecc3a2dd12235" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="RecoffeeModel.admin" Width="1.5" PointX="7.5" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.admin_finca" Width="1.5" PointX="11.125" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.carrito" Width="1.5" PointX="24.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.carrito_producto" Width="1.5" PointX="24" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.categoria_producto" Width="1.5" PointX="8.875" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.city" Width="1.5" PointX="6.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.country" Width="1.5" PointX="3.375" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.departament" Width="1.5" PointX="5.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.direccion" Width="1.5" PointX="13.625" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.finca" Width="1.5" PointX="17.375" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.module" Width="1.5" PointX="0.875" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.module_role" Width="1.5" PointX="10" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.module_view" Width="1.5" PointX="4.375" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.persona" Width="1.5" PointX="12.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.producto" Width="1.5" PointX="21.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.recoleccion" Width="1.5" PointX="19.5" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.recolector" Width="1.5" PointX="16" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.recolectores_finca" Width="1.5" PointX="20.125" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.role" Width="1.5" PointX="27.375" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.servicio" Width="1.5" PointX="22.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.servicio_recolector" Width="1.5" PointX="17.875" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.user_role" Width="1.5" PointX="28.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.usuario" Width="1.5" PointX="26" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.venta" Width="1.5" PointX="15.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="RecoffeeModel.vista" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="RecoffeeModel.FK__admin__persona_i__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__admin_fin__admin__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__recolecci__admin__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__admin_fin__finca__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__carrito__usuario__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__carrito_p__carri__1CBC4616" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__carrito_p__produ__1DB06A4F" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__producto__catego__0A9D95DB" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__city__departamen__68487DD7" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__direccion__city___778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__departame__count__656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__direccion__perso__76969D2E" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__finca__propietar__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__producto__finca___09A971A2" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__recolecto__finca__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__servicio__finca___5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__module_ro__modul__7C4F7684" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__module_vi__modul__14270015" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__module_ro__role___7D439ABD" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__module_vi__view___151B244E" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__recolecto__perso__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__usuario__persona__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__venta__comprador__19DFD96B" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__venta__producto___18EBB532" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__recolecci__recol__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__recolecto__recol__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__servicio___recol__5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__user_role__role___01142BA1" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__servicio___servi__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="RecoffeeModel.FK__user_role__usuar__00200768" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RecoffeeModelStoreContainer" CdmEntityContainer="RecoffeeEntities">
+    <EntitySetMapping Name="admin">
+      <EntityTypeMapping TypeName="RecoffeeModel.admin">
+        <MappingFragment StoreEntitySet="admin">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="persona_id" ColumnName="persona_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="admin_finca">
+      <EntityTypeMapping TypeName="RecoffeeModel.admin_finca">
+        <MappingFragment StoreEntitySet="admin_finca">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="finca_id" ColumnName="finca_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="carrito">
+      <EntityTypeMapping TypeName="RecoffeeModel.carrito">
+        <MappingFragment StoreEntitySet="carrito">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="usuario_id" ColumnName="usuario_id" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="carrito_producto">
+      <EntityTypeMapping TypeName="RecoffeeModel.carrito_producto">
+        <MappingFragment StoreEntitySet="carrito_producto">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="carrito_id" ColumnName="carrito_id" />
+          <ScalarProperty Name="producto_id" ColumnName="producto_id" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="categoria_producto">
+      <EntityTypeMapping TypeName="RecoffeeModel.categoria_producto">
+        <MappingFragment StoreEntitySet="categoria_producto">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="city">
+      <EntityTypeMapping TypeName="RecoffeeModel.city">
+        <MappingFragment StoreEntitySet="city">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="departament_id" ColumnName="departament_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="country">
+      <EntityTypeMapping TypeName="RecoffeeModel.country">
+        <MappingFragment StoreEntitySet="country">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="departament">
+      <EntityTypeMapping TypeName="RecoffeeModel.departament">
+        <MappingFragment StoreEntitySet="departament">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="country_id" ColumnName="country_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="direccion">
+      <EntityTypeMapping TypeName="RecoffeeModel.direccion">
+        <MappingFragment StoreEntitySet="direccion">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="persona_id" ColumnName="persona_id" />
+          <ScalarProperty Name="city_id" ColumnName="city_id" />
+          <ScalarProperty Name="direccion1" ColumnName="direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="finca">
+      <EntityTypeMapping TypeName="RecoffeeModel.finca">
+        <MappingFragment StoreEntitySet="finca">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ubicacion" ColumnName="ubicacion" />
+          <ScalarProperty Name="propietario_id" ColumnName="propietario_id" />
+          <ScalarProperty Name="tamano" ColumnName="tamano" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="module">
+      <EntityTypeMapping TypeName="RecoffeeModel.module">
+        <MappingFragment StoreEntitySet="module">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="module_role">
+      <EntityTypeMapping TypeName="RecoffeeModel.module_role">
+        <MappingFragment StoreEntitySet="module_role">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="module_id" ColumnName="module_id" />
+          <ScalarProperty Name="role_id" ColumnName="role_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="module_view">
+      <EntityTypeMapping TypeName="RecoffeeModel.module_view">
+        <MappingFragment StoreEntitySet="module_view">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="module_id" ColumnName="module_id" />
+          <ScalarProperty Name="view_id" ColumnName="view_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="persona">
+      <EntityTypeMapping TypeName="RecoffeeModel.persona">
+        <MappingFragment StoreEntitySet="persona">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="identificacion" ColumnName="identificacion" />
+          <ScalarProperty Name="contacto" ColumnName="contacto" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="producto">
+      <EntityTypeMapping TypeName="RecoffeeModel.producto">
+        <MappingFragment StoreEntitySet="producto">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="precio" ColumnName="precio" />
+          <ScalarProperty Name="finca_id" ColumnName="finca_id" />
+          <ScalarProperty Name="categoria_id" ColumnName="categoria_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="recoleccion">
+      <EntityTypeMapping TypeName="RecoffeeModel.recoleccion">
+        <MappingFragment StoreEntitySet="recoleccion">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="recolector_id" ColumnName="recolector_id" />
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="dia" ColumnName="dia" />
+          <ScalarProperty Name="kilos" ColumnName="kilos" />
+          <ScalarProperty Name="precio_por_kilo" ColumnName="precio_por_kilo" />
+          <ScalarProperty Name="salario_calculado" ColumnName="salario_calculado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="recolector">
+      <EntityTypeMapping TypeName="RecoffeeModel.recolector">
+        <MappingFragment StoreEntitySet="recolector">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="persona_id" ColumnName="persona_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="recolectores_finca">
+      <EntityTypeMapping TypeName="RecoffeeModel.recolectores_finca">
+        <MappingFragment StoreEntitySet="recolectores_finca">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="recolector_id" ColumnName="recolector_id" />
+          <ScalarProperty Name="finca_id" ColumnName="finca_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="role">
+      <EntityTypeMapping TypeName="RecoffeeModel.role">
+        <MappingFragment StoreEntitySet="role">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="servicio">
+      <EntityTypeMapping TypeName="RecoffeeModel.servicio">
+        <MappingFragment StoreEntitySet="servicio">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="finca_id" ColumnName="finca_id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="precio" ColumnName="precio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="servicio_recolector">
+      <EntityTypeMapping TypeName="RecoffeeModel.servicio_recolector">
+        <MappingFragment StoreEntitySet="servicio_recolector">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="servicio_id" ColumnName="servicio_id" />
+          <ScalarProperty Name="recolector_id" ColumnName="recolector_id" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="user_role">
+      <EntityTypeMapping TypeName="RecoffeeModel.user_role">
+        <MappingFragment StoreEntitySet="user_role">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="usuario_id" ColumnName="usuario_id" />
+          <ScalarProperty Name="role_id" ColumnName="role_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuario">
+      <EntityTypeMapping TypeName="RecoffeeModel.usuario">
+        <MappingFragment StoreEntitySet="usuario">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="persona_id" ColumnName="persona_id" />
+          <ScalarProperty Name="contrasena" ColumnName="contrasena" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="venta">
+      <EntityTypeMapping TypeName="RecoffeeModel.venta">
+        <MappingFragment StoreEntitySet="venta">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="producto_id" ColumnName="producto_id" />
+          <ScalarProperty Name="comprador_id" ColumnName="comprador_id" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="total" ColumnName="total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vista">
+      <EntityTypeMapping TypeName="RecoffeeModel.vista">
+        <MappingFragment StoreEntitySet="vista">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

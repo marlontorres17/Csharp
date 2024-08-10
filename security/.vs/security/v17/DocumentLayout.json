@@ -1,0 +1,735 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\implements\\role_viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\role_viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Migrations\\20240810230028_pruebados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20240810230028_pruebados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\model\\security\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\model\\security\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\data\\implements\\role_viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\role_viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\bussines\\security\\implements\\role_viewbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\implements\\role_viewbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\interface\\irole_viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\interface\\irole_viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\implements\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\bussines\\security\\interface\\imodulebussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\interface\\imodulebussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\bussines\\security\\implements\\modulebussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\implements\\modulebussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\bussines\\ubicacion\\interface\\icitybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\ubicacion\\interface\\icitybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\bussines\\ubicacion\\implements\\citybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\ubicacion\\implements\\citybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\data\\implements\\moduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\moduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\data\\implements\\citydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\citydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\data\\interface\\icitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\interface\\icitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\implements\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\implements\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\implements\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\interface\\iviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\interface\\iviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\implements\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\implements\\departamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\departamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\interface\\idepartamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\interface\\idepartamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\interface\\icountrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\interface\\icountrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\web\\controllers\\interface\\icitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\interface\\icitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\bussines\\ubicacion\\implements\\countrybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\ubicacion\\implements\\countrybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\data\\implements\\departamentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\departamentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\data\\interface\\idepartamentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\interface\\idepartamentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\data\\implements\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\bussines\\ubicacion\\interface\\idepartamentbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\ubicacion\\interface\\idepartamentbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\bussines\\ubicacion\\interface\\icountrybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\ubicacion\\interface\\icountrybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\bussines\\ubicacion\\implements\\departamentbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\ubicacion\\implements\\departamentbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\dto\\departamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\departamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\model\\ubicacion\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\model\\ubicacion\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\model\\ubicacion\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\model\\ubicacion\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\model\\ubicacion\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\model\\ubicacion\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\data\\interface\\icountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\interface\\icountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\data\\implements\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\migrations\\20240804215231_segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\migrations\\20240804215231_segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\marlon\\source\\repos\\a\\security\\security\\entity\\migrations\\20240808193141_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\migrations\\20240808193141_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModuleBussines.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Security\\Implements\\ModuleBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Implements\\ModuleBussines.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Security\\Implements\\ModuleBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Implements\\ModuleBussines.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:41:25.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModuleData.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\ModuleData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\ModuleData.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\ModuleData.cs",
+              "RelativeToolTip": "Data\\Implements\\ModuleData.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:41:05.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\Login.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\Login.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\Login.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\Login.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:49:21.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:46:25.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:34:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T19:30:01.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Role_ViewController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\Role_ViewController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\Role_ViewController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\Role_ViewController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\Role_ViewController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:24:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240810230028_pruebados.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Migrations\\20240810230028_pruebados.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240810230028_pruebados.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Migrations\\20240810230028_pruebados.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240810230028_pruebados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T23:00:30.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IModuleBussines.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Security\\Interface\\IModuleBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Interface\\IModuleBussines.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Security\\Interface\\IModuleBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Interface\\IModuleBussines.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:45:37.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role_ViewData.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\Role_ViewData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\Role_ViewData.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\Role_ViewData.cs",
+              "RelativeToolTip": "Data\\Implements\\Role_ViewData.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:53:42.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Security\\Role.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\Role.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Security\\Role.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:57:29.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Security\\View.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\View.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Security\\View.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\View.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:57:44.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRole_ViewController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\IRole_ViewController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interface\\IRole_ViewController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\IRole_ViewController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interface\\IRole_ViewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:52:00.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role_ViewBussines.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Security\\Implements\\Role_ViewBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Implements\\Role_ViewBussines.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Security\\Implements\\Role_ViewBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Implements\\Role_ViewBussines.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:53:03.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\PersonController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\PersonController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\PersonController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:31:58.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICityController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\ICityController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interface\\ICityController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\ICityController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interface\\ICityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:12:20.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICityData.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Interface\\ICityData.cs",
+              "RelativeDocumentMoniker": "Data\\Interface\\ICityData.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Interface\\ICityData.cs",
+              "RelativeToolTip": "Data\\Interface\\ICityData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:56:57.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CityBussines.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Implements\\CityBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Ubicacion\\Implements\\CityBussines.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Implements\\CityBussines.cs",
+              "RelativeToolTip": "Bussines\\Ubicacion\\Implements\\CityBussines.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:55:02.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICityBussines.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Interface\\ICityBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Ubicacion\\Interface\\ICityBussines.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Interface\\ICityBussines.cs",
+              "RelativeToolTip": "Bussines\\Ubicacion\\Interface\\ICityBussines.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:50:27.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IViewController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\IViewController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interface\\IViewController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\IViewController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interface\\IViewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:15:21.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\ICountryController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interface\\ICountryController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\ICountryController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interface\\ICountryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:08:38.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CityData.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\CityData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\CityData.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\CityData.cs",
+              "RelativeToolTip": "Data\\Implements\\CityData.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:12:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240808193141_prueba.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Migrations\\20240808193141_prueba.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240808193141_prueba.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Migrations\\20240808193141_prueba.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240808193141_prueba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:31:41.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\UserController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\UserController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:47:18.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDepartamentController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\IDepartamentController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interface\\IDepartamentController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Interface\\IDepartamentController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interface\\IDepartamentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:19:23.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\CityController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\CityController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\CityController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\CityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:12:23.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartamentController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\DepartamentController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\DepartamentController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\DepartamentController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\DepartamentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:14:50.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\CountryController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\CountryController.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Web\\Controllers\\Implements\\CountryController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\CountryController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:14:41.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CountryBussines.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Implements\\CountryBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Ubicacion\\Implements\\CountryBussines.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Implements\\CountryBussines.cs",
+              "RelativeToolTip": "Bussines\\Ubicacion\\Implements\\CountryBussines.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:55:34.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepartamentData.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\DepartamentData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\DepartamentData.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\DepartamentData.cs",
+              "RelativeToolTip": "Data\\Implements\\DepartamentData.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:59:55.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IDepartamentBussines.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Interface\\IDepartamentBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Ubicacion\\Interface\\IDepartamentBussines.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Interface\\IDepartamentBussines.cs",
+              "RelativeToolTip": "Bussines\\Ubicacion\\Interface\\IDepartamentBussines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:51:23.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CountryData.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\CountryData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\CountryData.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\CountryData.cs",
+              "RelativeToolTip": "Data\\Implements\\CountryData.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:58:24.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICountryBussines.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Interface\\ICountryBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Ubicacion\\Interface\\ICountryBussines.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Interface\\ICountryBussines.cs",
+              "RelativeToolTip": "Bussines\\Ubicacion\\Interface\\ICountryBussines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:51:09.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDepartamentData.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Interface\\IDepartamentData.cs",
+              "RelativeDocumentMoniker": "Data\\Interface\\IDepartamentData.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Interface\\IDepartamentData.cs",
+              "RelativeToolTip": "Data\\Interface\\IDepartamentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:59:17.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartamentBussines.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Implements\\DepartamentBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Ubicacion\\Implements\\DepartamentBussines.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Bussines\\Ubicacion\\Implements\\DepartamentBussines.cs",
+              "RelativeToolTip": "Bussines\\Ubicacion\\Implements\\DepartamentBussines.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:56:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartamentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\DTO\\DepartamentDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\DepartamentDto.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\DTO\\DepartamentDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\DepartamentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:02:47.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\DTO\\CountryDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\DTO\\CountryDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\CountryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:02:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\DTO\\CityDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\CityDto.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\DTO\\CityDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\CityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:01:47.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Ubicacion\\Country.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Ubicacion\\Country.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Ubicacion\\Country.cs",
+              "RelativeToolTip": "Entity\\Model\\Ubicacion\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:01:04.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Ubicacion\\Departament.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Ubicacion\\Departament.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Ubicacion\\Departament.cs",
+              "RelativeToolTip": "Entity\\Model\\Ubicacion\\Departament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:01:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Ubicacion\\City.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Ubicacion\\City.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Model\\Ubicacion\\City.cs",
+              "RelativeToolTip": "Entity\\Model\\Ubicacion\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:00:29.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICountryData.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Interface\\ICountryData.cs",
+              "RelativeDocumentMoniker": "Data\\Interface\\ICountryData.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Interface\\ICountryData.cs",
+              "RelativeToolTip": "Data\\Interface\\ICountryData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:57:19.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240804215231_segunda.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Migrations\\20240804215231_segunda.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240804215231_segunda.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Entity\\Migrations\\20240804215231_segunda.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240804215231_segunda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:52:31.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\PersonData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\PersonData.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\A\\security\\security\\Data\\Implements\\PersonData.cs",
+              "RelativeToolTip": "Data\\Implements\\PersonData.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAABBwFkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:20:39.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
